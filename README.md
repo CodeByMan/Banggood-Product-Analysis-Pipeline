@@ -18,6 +18,8 @@
 
 ---
 
+<img src="banggood.png" alt="Banggood Banner" width="900"/>
+
 ## 📌 Project Overview
 
 This project analyzes product listings from **Banggood.com** through a complete data pipeline. It collects product data using Selenium, cleans and transforms raw CSV files with Pandas, generates exploratory visualizations, loads the cleaned dataset into SQL Server, and provides an interactive Streamlit dashboard.
