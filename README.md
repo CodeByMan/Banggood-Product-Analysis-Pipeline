@@ -281,20 +281,10 @@ streamlit run src/streamlit/app.py
 
 ---
 
-## ⚠️ Important Notes
-
-- Banggood website layout may change over time, so scraper selectors may need updates.
-- Chrome browser is required for Selenium scraping.
-- Update SQL Server connection settings according to your own local system.
-- Do not upload secrets, passwords, access keys, or `.env` files to GitHub.
-- `pipeline.log`, `.git/`, and the empty `python` file should not be committed.
-
----
-
 ## 👤 Author
 
 **Muhammad Ali Nawaz**  
-Data Analyst | Cloud Data Engineering Student
+Data Analyst
 
 ---
 
