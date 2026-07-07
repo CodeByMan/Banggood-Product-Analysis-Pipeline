@@ -1,0 +1,49 @@
+# Logs
+pipeline.log
+*.log
+
+# Useless/temporary files
+python
+tmp/
+temp/
+*.tmp
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# Virtual environments
+.env
+.venv/
+venv/
+env/
+
+# Secrets and credentials
+.env.*
+credentials.json
+config.json
+*.key
+*.pem
+*.secret
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build/distribution
+build/
+dist/
+*.egg-info/
+
+# Test/cache
+.pytest_cache/
+.mypy_cache/

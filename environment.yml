@@ -1,0 +1,21 @@
+name: banggood_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - sqlalchemy
+  - requests
+  - beautifulsoup4
+  - streamlit
+  - tqdm
+  - pip
+  - pip:
+      - selenium
+      - webdriver-manager
+      - lxml
+      - pyodbc

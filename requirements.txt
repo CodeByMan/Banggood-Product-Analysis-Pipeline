@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+seaborn
+sqlalchemy
+requests
+beautifulsoup4
+selenium
+webdriver-manager
+streamlit
+lxml
+pyodbc
+tqdm
